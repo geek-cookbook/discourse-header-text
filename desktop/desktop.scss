@@ -1,8 +1,8 @@
 .d-header .title::after {
     padding-left: 20px;
-    font-size: 1.5em;
-    color:  #333;
-    content: "Here is some text";
+    font-size: 9rem;
+    color:  rgb(255, 255, 255);
+    content: "Funky Penguin's Geek Forums";
 }
 .archetype-regular #main.no-text .d-header .title::after,
 .archetype-private_message #main.no-text .d-header .title::after {
